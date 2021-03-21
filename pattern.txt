@@ -1,0 +1,36 @@
+Creational
+-------------
+Abstract Factory
+Builder
+Factory Method
+Object Pool
+Prototype
+Singleton
+Structural design patterns
+
+Structural
+-------------
+Adapter
+Bridge
+Composite
+Decorator
+Facade
+Flyweight
+Private Class Data
+Proxy
+Behavioral design patterns
+
+Behavioral
+-------------
+Chain of responsibility
+Command
+Interpreter
+Iterator
+Mediator
+Memento
+Null Object
+Observer
+State
+Strategy
+Template method
+Visitor
